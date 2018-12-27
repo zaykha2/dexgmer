@@ -1,7 +1,7 @@
 ?token=?????? 
 owner=??? ???? 
-prefix= D
-game= Dhelp
+prefix= 1
+game= 1help
 stayinchannel=true
 songinstatus=true 
 token=NTI3OTMyMTQzNTU3NDEwODE4.Dwa6qA.MpIHeaZx-GlGlYEDEmQNRYPHly4
