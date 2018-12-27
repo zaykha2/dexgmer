@@ -5,4 +5,4 @@ game= Dhelp
 stayinchannel=true
 songinstatus=true 
 token=NTI3OTMyMTQzNTU3NDEwODE4.Dwa6qA.MpIHeaZx-GlGlYEDEmQNRYPHly4
-owner=447399500835848192
+owner=448590558160748545
