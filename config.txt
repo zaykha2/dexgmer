@@ -1,8 +1,8 @@
 ?token=?????? 
 owner=??? ???? 
-prefix= 1
-game= 1help
+prefix= 2
+game= 2help
 stayinchannel=true
 songinstatus=true 
-token=NTI3OTMyMTQzNTU3NDEwODE4.Dwa6qA.MpIHeaZx-GlGlYEDEmQNRYPHly4
+token=NTI3OTMyNDU5ODgzNDI5ODg4.Dwa68w.J0TlJaBx-wRH8pI_hBg-k_Dm1QA
 owner=448590558160748545
