@@ -1,0 +1,8 @@
+?token=?????? 
+owner=??? ???? 
+prefix= D
+game= Dhelp
+stayinchannel=true
+songinstatus=true 
+token=NTI3ODcwMjQxMzkzNjA2NjY2.DwaBNA.G-7zUr4M0trTPu7D5xPWCU_RT70
+owner=447399500835848192
